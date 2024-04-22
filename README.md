@@ -1,1 +1,5 @@
-# Lab07_101395302_COMP3133
+# Example of Angular Data Binding & Directives
+
+- Angular Data Binding & Directives
+
+-	Building Custom Pipes & Directives
